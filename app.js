@@ -53,7 +53,7 @@ app.get("/api/v1/games", (req, res) => {
 
 });
 
-const PORT = 8440;
+const PORT = process.env.PORT || 8440;
 
 app.listen(PORT, () => {
   console.log(`running on ${PORT}`);
