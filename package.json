@@ -21,9 +21,7 @@
     "event-stream": "^4.0.1",
     "express": "^4.16.4",
     "firebase": "^5.7.3",
-    "firebase-admin": "^6.5.0",
-    "mongoose": "^5.3.9",
-    "request": "^2.88.0"
+    "firebase-admin": "^6.5.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
