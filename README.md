@@ -6,4 +6,6 @@ To fire up the server, run the following commands:
 npm install
 npm start
 ```
+The server will run on http://localhost:8440
+
 This code was developed for the [Barstool Boxscore Challenge](https://github.com/BarstoolSports/fullstack-challenge).
